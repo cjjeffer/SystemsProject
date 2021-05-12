@@ -1,1 +1,2 @@
 # SystemsProject
+This project is a program that uses takes recent tweets from Twitter about a particular movie and feeds those tweets to a sentiment analysis API. The sentiment analysis API determines which of the tweets are negative and positive and based on the ratio it gives the movie in question a review score. Made in Unity, as such I am legally unable to share all of the code I used such as 3rd party tools that allow the program to run, but I have my scripts in this project.
